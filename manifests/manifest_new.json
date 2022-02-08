@@ -1,0 +1,746 @@
+{
+	"@context": "http://iiif.io/api/presentation/2/context.json",
+	"@id": "http://46.101.114.208:8887/manifest_new.json",
+	"@type": "sc:Manifest",
+	"label": "Bartolomé de Las Casas: Treinta Proposiciones",
+	"metadata": [],
+	"description": [
+		{
+			"@value": "Las Casas, Treinta Proposiciones (2018 [1552]),",
+			"@language": "es"
+		}
+	],
+	"license": "https://creativecommons.org/licenses/by/3.0/",
+	"attribution": "Die Schule von Salamanca. Eine Digitale Quellensammlung. Band 4",
+	"sequences": [
+		{
+			"@id": "http://b8755674-cde1-436c-bd68-2370cd39c107",
+			"@type": "sc:Sequence",
+			"label": [
+				{
+					"@value": "Normal Sequence",
+					"@language": "en"
+				}
+			],
+			"canvases": [
+				{
+					"@id": "http://9de2d180-ddb6-4658-8e89-b7c13012857b",
+					"@type": "sc:Canvas",
+					"label": "1r",
+					"height": 2424,
+					"width": 1905,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://4a963ade-2328-4a33-b9b1-2f4e1278a873",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "http://46.101.114.208:8182/iiif/2/W0034-0001.jpg/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "http://46.101.114.208:8182/iiif/2/W0034-0001.jpg",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json",
+										{
+											"formats": [
+												"jpg",
+												"tif",
+												"gif",
+												"png"
+											],
+											"maxArea": 4617720,
+											"qualities": [
+												"bitonal",
+												"default",
+												"gray",
+												"color"
+											],
+											"supports": [
+												"regionByPx",
+												"sizeByW",
+												"sizeByWhListed",
+												"cors",
+												"regionSquare",
+												"sizeByDistortedWh",
+												"canonicalLinkHeader",
+												"sizeByConfinedWh",
+												"sizeByPct",
+												"jsonldMediaType",
+												"regionByPct",
+												"rotationArbitrary",
+												"sizeByH",
+												"baseUriRedirect",
+												"rotationBy90s",
+												"profileLinkHeader",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"mirroring"
+											]
+										}
+									]
+								},
+								"height": 2424,
+								"width": 1905
+							},
+							"on": "http://9de2d180-ddb6-4658-8e89-b7c13012857b"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://e456eac4-fa86-4ab5-ab72-c13b1697df16",
+					"@type": "sc:Canvas",
+					"label": "1v",
+					"height": 2376,
+					"width": 1791,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://b102899c-abb7-4297-b34e-7154dd9c59da",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "http://46.101.114.208:8182/iiif/2/W0034-0002.jpg/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "http://46.101.114.208:8182/iiif/2/W0034-0002.jpg",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json",
+										{
+											"formats": [
+												"jpg",
+												"tif",
+												"gif",
+												"png"
+											],
+											"maxArea": 4255416,
+											"qualities": [
+												"bitonal",
+												"default",
+												"gray",
+												"color"
+											],
+											"supports": [
+												"regionByPx",
+												"sizeByW",
+												"sizeByWhListed",
+												"cors",
+												"regionSquare",
+												"sizeByDistortedWh",
+												"canonicalLinkHeader",
+												"sizeByConfinedWh",
+												"sizeByPct",
+												"jsonldMediaType",
+												"regionByPct",
+												"rotationArbitrary",
+												"sizeByH",
+												"baseUriRedirect",
+												"rotationBy90s",
+												"profileLinkHeader",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"mirroring"
+											]
+										}
+									]
+								},
+								"height": 2376,
+								"width": 1791
+							},
+							"on": "http://e456eac4-fa86-4ab5-ab72-c13b1697df16"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://5bd32094-b56a-4532-a3db-605cc16a77cd",
+					"@type": "sc:Canvas",
+					"label": "2r",
+					"height": 2376,
+					"width": 1859,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://cfac0216-90ae-42d2-b56f-3128ee4ec33b",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "http://46.101.114.208:8182/iiif/2/W0034-0003.jpg/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "http://46.101.114.208:8182/iiif/2/W0034-0003.jpg",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json",
+										{
+											"formats": [
+												"jpg",
+												"tif",
+												"gif",
+												"png"
+											],
+											"maxArea": 4416984,
+											"qualities": [
+												"bitonal",
+												"default",
+												"gray",
+												"color"
+											],
+											"supports": [
+												"regionByPx",
+												"sizeByW",
+												"sizeByWhListed",
+												"cors",
+												"regionSquare",
+												"sizeByDistortedWh",
+												"canonicalLinkHeader",
+												"sizeByConfinedWh",
+												"sizeByPct",
+												"jsonldMediaType",
+												"regionByPct",
+												"rotationArbitrary",
+												"sizeByH",
+												"baseUriRedirect",
+												"rotationBy90s",
+												"profileLinkHeader",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"mirroring"
+											]
+										}
+									]
+								},
+								"height": 2376,
+								"width": 1859
+							},
+							"on": "http://5bd32094-b56a-4532-a3db-605cc16a77cd"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://7bdd57e6-5ed7-4c20-8934-57ea02b309c5",
+					"@type": "sc:Canvas",
+					"label": "2v",
+					"height": 2376,
+					"width": 1818,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://2da4e248-5df9-41aa-80bb-1c6802af4eab",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "http://46.101.114.208:8182/iiif/2/W0034-0004.jpg/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "http://46.101.114.208:8182/iiif/2/W0034-0004.jpg",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json",
+										{
+											"formats": [
+												"jpg",
+												"tif",
+												"gif",
+												"png"
+											],
+											"maxArea": 4319568,
+											"qualities": [
+												"bitonal",
+												"default",
+												"gray",
+												"color"
+											],
+											"supports": [
+												"regionByPx",
+												"sizeByW",
+												"sizeByWhListed",
+												"cors",
+												"regionSquare",
+												"sizeByDistortedWh",
+												"canonicalLinkHeader",
+												"sizeByConfinedWh",
+												"sizeByPct",
+												"jsonldMediaType",
+												"regionByPct",
+												"rotationArbitrary",
+												"sizeByH",
+												"baseUriRedirect",
+												"rotationBy90s",
+												"profileLinkHeader",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"mirroring"
+											]
+										}
+									]
+								},
+								"height": 2376,
+								"width": 1818
+							},
+							"on": "http://7bdd57e6-5ed7-4c20-8934-57ea02b309c5"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://b34b7512-5ac6-4569-8fba-735044639dc9",
+					"@type": "sc:Canvas",
+					"label": "3r",
+					"height": 2376,
+					"width": 1827,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://aa4692a5-ce99-4e0c-8eac-0739cc5c341c",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "http://46.101.114.208:8182/iiif/2/W0034-0005.jpg/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "http://46.101.114.208:8182/iiif/2/W0034-0005.jpg",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json",
+										{
+											"formats": [
+												"jpg",
+												"tif",
+												"gif",
+												"png"
+											],
+											"maxArea": 4340952,
+											"qualities": [
+												"bitonal",
+												"default",
+												"gray",
+												"color"
+											],
+											"supports": [
+												"regionByPx",
+												"sizeByW",
+												"sizeByWhListed",
+												"cors",
+												"regionSquare",
+												"sizeByDistortedWh",
+												"canonicalLinkHeader",
+												"sizeByConfinedWh",
+												"sizeByPct",
+												"jsonldMediaType",
+												"regionByPct",
+												"rotationArbitrary",
+												"sizeByH",
+												"baseUriRedirect",
+												"rotationBy90s",
+												"profileLinkHeader",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"mirroring"
+											]
+										}
+									]
+								},
+								"height": 2376,
+								"width": 1827
+							},
+							"on": "http://b34b7512-5ac6-4569-8fba-735044639dc9"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://ca97625c-1c00-491f-b64c-e3769f28004e",
+					"@type": "sc:Canvas",
+					"label": "3v",
+					"height": 2376,
+					"width": 1829,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://6e69b48f-3ecc-4540-8f16-a8db247eacb1",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "http://46.101.114.208:8182/iiif/2/W0034-0006.jpg/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "http://46.101.114.208:8182/iiif/2/W0034-0006.jpg",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json",
+										{
+											"formats": [
+												"jpg",
+												"tif",
+												"gif",
+												"png"
+											],
+											"maxArea": 4345704,
+											"qualities": [
+												"bitonal",
+												"default",
+												"gray",
+												"color"
+											],
+											"supports": [
+												"regionByPx",
+												"sizeByW",
+												"sizeByWhListed",
+												"cors",
+												"regionSquare",
+												"sizeByDistortedWh",
+												"canonicalLinkHeader",
+												"sizeByConfinedWh",
+												"sizeByPct",
+												"jsonldMediaType",
+												"regionByPct",
+												"rotationArbitrary",
+												"sizeByH",
+												"baseUriRedirect",
+												"rotationBy90s",
+												"profileLinkHeader",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"mirroring"
+											]
+										}
+									]
+								},
+								"height": 2376,
+								"width": 1829
+							},
+							"on": "http://ca97625c-1c00-491f-b64c-e3769f28004e"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://239b666b-fed1-4434-b228-5c97727e02cb",
+					"@type": "sc:Canvas",
+					"label": "4r",
+					"height": 2376,
+					"width": 1820,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://3f5deec8-dda3-4dda-b625-90db0fdfc076",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "http://46.101.114.208:8182/iiif/2/W0034-0007.jpg/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "http://46.101.114.208:8182/iiif/2/W0034-0007.jpg",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json",
+										{
+											"formats": [
+												"jpg",
+												"tif",
+												"gif",
+												"png"
+											],
+											"maxArea": 4324320,
+											"qualities": [
+												"bitonal",
+												"default",
+												"gray",
+												"color"
+											],
+											"supports": [
+												"regionByPx",
+												"sizeByW",
+												"sizeByWhListed",
+												"cors",
+												"regionSquare",
+												"sizeByDistortedWh",
+												"canonicalLinkHeader",
+												"sizeByConfinedWh",
+												"sizeByPct",
+												"jsonldMediaType",
+												"regionByPct",
+												"rotationArbitrary",
+												"sizeByH",
+												"baseUriRedirect",
+												"rotationBy90s",
+												"profileLinkHeader",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"mirroring"
+											]
+										}
+									]
+								},
+								"height": 2376,
+								"width": 1820
+							},
+							"on": "http://239b666b-fed1-4434-b228-5c97727e02cb"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://650c6885-c3d0-4f2d-b76a-deb0100da170",
+					"@type": "sc:Canvas",
+					"label": "4v",
+					"height": 2376,
+					"width": 1809,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://ed4abfbc-2cfb-4357-8a12-f06c25aa8e5d",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "http://46.101.114.208:8182/iiif/2/W0034-0008.jpg/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "http://46.101.114.208:8182/iiif/2/W0034-0008.jpg",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json",
+										{
+											"formats": [
+												"jpg",
+												"tif",
+												"gif",
+												"png"
+											],
+											"maxArea": 4298184,
+											"qualities": [
+												"bitonal",
+												"default",
+												"gray",
+												"color"
+											],
+											"supports": [
+												"regionByPx",
+												"sizeByW",
+												"sizeByWhListed",
+												"cors",
+												"regionSquare",
+												"sizeByDistortedWh",
+												"canonicalLinkHeader",
+												"sizeByConfinedWh",
+												"sizeByPct",
+												"jsonldMediaType",
+												"regionByPct",
+												"rotationArbitrary",
+												"sizeByH",
+												"baseUriRedirect",
+												"rotationBy90s",
+												"profileLinkHeader",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"mirroring"
+											]
+										}
+									]
+								},
+								"height": 2376,
+								"width": 1809
+							},
+							"on": "http://650c6885-c3d0-4f2d-b76a-deb0100da170"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://b3d72a34-ae26-4276-a097-b814c54b671a",
+					"@type": "sc:Canvas",
+					"label": "5r",
+					"height": 2376,
+					"width": 1830,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://685478f0-388c-4137-8f24-b16ae6700194",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "http://46.101.114.208:8182/iiif/2/W0034-0009.jpg/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "http://46.101.114.208:8182/iiif/2/W0034-0009.jpg",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json",
+										{
+											"formats": [
+												"jpg",
+												"tif",
+												"gif",
+												"png"
+											],
+											"maxArea": 4348080,
+											"qualities": [
+												"bitonal",
+												"default",
+												"gray",
+												"color"
+											],
+											"supports": [
+												"regionByPx",
+												"sizeByW",
+												"sizeByWhListed",
+												"cors",
+												"regionSquare",
+												"sizeByDistortedWh",
+												"canonicalLinkHeader",
+												"sizeByConfinedWh",
+												"sizeByPct",
+												"jsonldMediaType",
+												"regionByPct",
+												"rotationArbitrary",
+												"sizeByH",
+												"baseUriRedirect",
+												"rotationBy90s",
+												"profileLinkHeader",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"mirroring"
+											]
+										}
+									]
+								},
+								"height": 2376,
+								"width": 1830
+							},
+							"on": "http://b3d72a34-ae26-4276-a097-b814c54b671a"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://9d884aa8-6243-4227-9f9e-38a7d73a50c7",
+					"@type": "sc:Canvas",
+					"label": "5v",
+					"height": 2376,
+					"width": 1820,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://d56efea8-26fb-46ec-93e4-0453d3f2b661",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "http://46.101.114.208:8182/iiif/2/W0034-0010.jpg/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "http://46.101.114.208:8182/iiif/2/W0034-0010.jpg",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json",
+										{
+											"formats": [
+												"jpg",
+												"tif",
+												"gif",
+												"png"
+											],
+											"maxArea": 4324320,
+											"qualities": [
+												"bitonal",
+												"default",
+												"gray",
+												"color"
+											],
+											"supports": [
+												"regionByPx",
+												"sizeByW",
+												"sizeByWhListed",
+												"cors",
+												"regionSquare",
+												"sizeByDistortedWh",
+												"canonicalLinkHeader",
+												"sizeByConfinedWh",
+												"sizeByPct",
+												"jsonldMediaType",
+												"regionByPct",
+												"rotationArbitrary",
+												"sizeByH",
+												"baseUriRedirect",
+												"rotationBy90s",
+												"profileLinkHeader",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"mirroring"
+											]
+										}
+									]
+								},
+								"height": 2376,
+								"width": 1820
+							},
+							"on": "http://9d884aa8-6243-4227-9f9e-38a7d73a50c7"
+						}
+					],
+					"related": ""
+				}
+			]
+		}
+	],
+"structures": [
+    {
+      "@id": "http://9de2d180-ddb6-4658-8e89-b7c13012857b",
+      "@type": "sc:Range",
+      "label": "1r",
+      "canvases": [
+        "http://9de2d180-ddb6-4658-8e89-b7c13012857b"
+      ]
+    },
+    {
+      "@id": "http://e456eac4-fa86-4ab5-ab72-c13b1697df16",
+      "@type": "sc:Range",
+      "label": "1v",
+      "canvases": [
+        "http://e456eac4-fa86-4ab5-ab72-c13b1697df16"
+      ]
+    },
+    {
+      "@id": "http://5bd32094-b56a-4532-a3db-605cc16a77cd",
+      "@type": "sc:Range",
+      "label": "2r",
+      "canvases": [
+        "http://5bd32094-b56a-4532-a3db-605cc16a77cd"
+      ]
+    },
+    {
+      "@id": "http://7bdd57e6-5ed7-4c20-8934-57ea02b309c5",
+      "@type": "sc:Range",
+      "label": "2v",
+      "canvases": [
+        "http://7bdd57e6-5ed7-4c20-8934-57ea02b309c5"
+      ]
+    },
+    {
+      "@id": "http://b34b7512-5ac6-4569-8fba-735044639dc9",
+      "@type": "sc:Range",
+      "label": "3r",
+      "canvases": [
+        "http://b34b7512-5ac6-4569-8fba-735044639dc9"
+      ]
+    }
+  ]
+,
+	"thumbnail": {
+		"@id": "http://9de2d180-ddb6-4658-8e89-b7c13012857b"
+	},
+	"viewingDirection": "left-to-right"
+}
