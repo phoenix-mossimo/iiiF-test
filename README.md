@@ -1,2 +1,2 @@
 # iiif-training-workbench
-IIIF Training Workbench
+IIIF Massimo Training Workbench
